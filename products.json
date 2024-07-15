@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Matte",
+    "price": "$21",
+    "image": "/images/Frappe-virselis.jpg",
+    "description": "Un delicioso matte con un sabor único."
+  },
+  {
+    "title": "Pastel",
+    "price": "$20",
+    "image": "/images/pastel.jpeg",
+    "description": "Un pastel dulce y esponjoso, perfecto para cualquier ocasión."
+  },
+  {
+    "title": "Donas",
+    "price": "$14",
+    "image": "/images/donas.avif",
+    "description": "Donas frescas y deliciosas, glaseadas a la perfección."
+  },
+  {
+    "title": "Waffles",
+    "price": "$15",
+    "image": "/images/waffles.jpeg",
+    "description": "Waffles crujientes por fuera y suaves por dentro, servidos con miel."
+  },
+  {
+    "title": "Hot cake",
+    "price": "$25",
+    "image": "/images/hotcake.jpg",
+    "description": "Hot cakes tiernos y esponjosos, perfectos para un desayuno delicioso."
+  },
+  {
+    "title": "Malteada",
+    "price": "$25",
+    "image": "/images/malteada.jpeg",
+    "description": "Una malteada cremosa y refrescante para cualquier momento del día."
+  }
+]
